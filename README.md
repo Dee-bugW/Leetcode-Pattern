@@ -1,4 +1,4 @@
-# Interview-Pattern
+# Leetcode-Pattern
 Common Leetcode Problems and their patterns (EASY) - Python
 
 1. Hash Map
