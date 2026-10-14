@@ -1,5 +1,6 @@
 # Leetcode-Pattern
 Common Leetcode Problems and their patterns (EASY) - Python
+Learn how pattern runs through pattern_trainer.py
 
 1. Hash Map
    example:
